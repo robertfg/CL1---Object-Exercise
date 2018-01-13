@@ -1,0 +1,25 @@
+/* =================================
+  Import normalize.css
+	==================================== */
+@import url('http://necolas.github.io/normalize.css/3.0.2/normalize.css');
+
+/* =================================
+  Base Element Styles
+==================================== */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding-left: 100px;
+}
+
+h1 {
+	font-family: Arial;
+	padding-top: 30px;
+}
+
+h2 {
+	font-size: 1.2em;
+}
